@@ -1,5 +1,7 @@
 RENCANA KONTEN WPU
 
 - jvscript
+  *ES6
+  *React
 - Interview
 - Vlog
