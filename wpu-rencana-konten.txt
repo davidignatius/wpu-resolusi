@@ -3,6 +3,7 @@ RENCANA KONTEN WPU
 - jvscript
   *ES6
   *React (React DOM, React Router)
+  * vue js
 - Fundamental data structure
 - Interview
 - Vlog
