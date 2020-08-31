@@ -2,7 +2,7 @@ RENCANA KONTEN WPU
 
 - jvscript
   *ES6
-  *React
-- Fundamental data structure
+  *Angular
+  *Express JS
 - Interview
 - Vlog
